@@ -10,6 +10,8 @@ The script uses natural language processing (NLP) techniques to analyze the inpu
 Overall, this Python script simplifies the process of creating event reports for college clubs, making it easier to organize and analyze event data quickly and efficiently.
 
 #Setups Steps:
+
+
             1)Install Openai package:
 
             ->> Pip install openai
