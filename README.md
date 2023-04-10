@@ -9,7 +9,7 @@ The purpose of the script is to automate the process of creating event reports, 
 The script uses natural language processing (NLP) techniques to analyze the input data and generate a coherent report. The report includes details about the event such as the venue, attendees, activities, and outcomes. The report is saved in a format that is easy to read and share with others, making it a valuable tool for tracking and analyzing event data.
 Overall, this Python script simplifies the process of creating event reports for college clubs, making it easier to organize and analyze event data quickly and efficiently.
 
-#Setups Steps:
+# Setups Steps:
 
 
             1)Install Openai package:
